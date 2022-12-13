@@ -14,4 +14,14 @@ export class ShopComponent {
     appForm = new FormGroup({
       answer: new FormControl(''),
       });
+
+    constructor() {}
+
+    ngOnInit() {}
+
+    onSubmit(data: any)
+    {
+    this.answer = data.answer;
+    console.log("Your name is " + this.answer);
+    }
 }

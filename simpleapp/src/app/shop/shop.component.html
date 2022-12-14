@@ -6,4 +6,5 @@
     </div>
     <button type="submit" class="btn btn-success">Tell Me</button>
 </form> <br />
-<label>Your name is {{answer}}</label>
+<label *ngIf="answer != 'unknown'">Your name is {{answer}}</label>
+<app-info [name]="answer" *ngIf="answer != 'unknown'"></app-info>

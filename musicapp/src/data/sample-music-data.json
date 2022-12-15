@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "title": "Rites of Spring",
+        "artist": "Rites of Spring",
+        "description": null,
+        "year": 1985,
+        "image": "ROS.png",
+        "tracks": [
+            {
+                "id": 1,
+                "number": 1,
+                "title": "Spring",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 2,
+                "number": 2,
+                "title": "Deeper Than Inside",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 3,
+                "number": 3,
+                "title": "For Want Of",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 4,
+                "number": 4,
+                "title": "Hain's Point",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 5,
+                "number": 5,
+                "title": "All There Is",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 6,
+                "number": 6,
+                "title": "Drink Deep",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 7,
+                "number": 7,
+                "title": "Theme",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 8,
+                "number": 8,
+                "title": "By Design",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 9,
+                "number": 9,
+                "title": "Remainder",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 10,
+                "number": 10,
+                "title": "Persistent Vision",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 11,
+                "number": 11,
+                "title": "Nudes",
+                "lyrics": null,
+                "video": null
+            },
+            {
+                "id": 12,
+                "number": 12,
+                "title": "End On End",
+                "lyrics": null,
+                "video": null
+            }
+        ]
+    }
+]
